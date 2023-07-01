@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Content to be added at some point.
+
+Currently working on [A Divine Liturgy Series](https://chthh.github.io/divine_liturgy_series/)
+
+
 <!--
 **ChThH/ChThH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
