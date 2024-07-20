@@ -2,7 +2,7 @@
 
 Content to be added at some point.
 
-Currently working on [A Divine Liturgy Series](https://chthh.github.io/divine_liturgy_series/)
+Working on converting [A Divine Liturgy Series](https://chthh.github.io/divine_liturgy_series/) to a book
 
 
 <!--
