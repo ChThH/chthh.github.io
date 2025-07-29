@@ -1,4 +1,4 @@
-title: An Overview of the Divine Liturgy
+title: Literary Ales
 remote_theme: jekyll/minima
 github_username: ChThH
 minima:
@@ -12,6 +12,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 header_pages: 
   - index.md
-  - highschool.md
-  - jonah.md
+
 
