@@ -15,9 +15,10 @@ Most of my writings collected here are on Church feasts and related a materials.
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>It is time for God to act: Divine Liturgy Series</h2>
+    <h2>It is time for God to act:</h2> 
+    <h3>Divine Liturgy Series</h3>
     <p>A series primary geared for seekers and catechumens on the Divine Liturgy.</p>
-    <a href="https://chthh.github.io/anecdotes/">Visit</a>
+    <a href="https://chthh.github.io/divine_liturgy_series/">Visit</a>
   </div>
 
 <!--
