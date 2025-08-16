@@ -20,7 +20,7 @@ Most of my writings collected here are on Church feasts and related a materials.
     <a href="https://chthh.github.io/anecdotes/">Visit</a>
   </div>
 
-<!-->
+<!--
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Anecdotes & Stories</h2>
     <p>Light-hearted stories, personal reflections, and movie-day adventures.</p>
@@ -32,7 +32,7 @@ Most of my writings collected here are on Church feasts and related a materials.
     <p>Documents and ideas from my Sunder worldbuilding projects.</p>
     <a href="https://chthh.github.io/sunder-notes/">Visit</a>
   </div>
-<-->
+-->
 </div>
 
 
