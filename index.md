@@ -11,28 +11,24 @@ Most of my writings collected here are on Church feasts and related a materials.
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Theological Reflections</h2>
+    <h2><a href="https://chthh.github.io/theological-reflections/">Theological Reflections</a></h2>
     <p>Handouts for teaching series, short essays, reflections on feasts, and other theological thoughts.</p>
-    <a href="https://chthh.github.io/theological-reflections/">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>It is Time for God to Act: Divine Liturgy Series</h2>
+    <h2><a href="https://chthh.github.io/divine_liturgy_series/">It is Time for God to Act: Divine Liturgy Series</a></h2>
     <p>A series primary geared for seekers and catechumens on the Divine Liturgy.</p>
-    <a href="https://chthh.github.io/divine_liturgy_series/">Visit</a>
   </div>
 
 <!--
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Anecdotes & Stories</h2>
+    <h2><a href="https://chthh.github.io/anecdotes/">Anecdotes & Stories</a></h2>
     <p>Light-hearted stories, personal reflections, and movie-day adventures.</p>
-    <a href="https://chthh.github.io/anecdotes/">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Worldbuilding Notes</h2>
+    <h2><a href="">Worldbuilding Notes</a></h2>
     <p>Documents and ideas from my worldbuilding projects.</p>
-    <a href="">Visit</a>
   </div>
 -->
 </div>
