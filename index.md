@@ -3,7 +3,7 @@ layout: home
 title: Christopher's Hallmarks
 ---
 
-Most of my writings collected here are on Church feasts and related a materials. Several of the pdfs are for various teaching series. But there's some other here as well; I dabble in various things. 
+Most of my writings collected here are on Church feasts and related a materials. Several of the pdfs are for various teaching series. But there's some other things on here as well; I dabble in various things. 
 
 ---
 ## Current Projects
