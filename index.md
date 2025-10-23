@@ -20,6 +20,16 @@ Most of my writings collected here are on Church feasts and related a materials.
     <p>A series primary geared for seekers and catechumens on the Divine Liturgy.</p>
   </div>
 
+  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+    <h2><a href="https://chthh.github.io/theological-reflections/poetry">Doggerel</a></h2>
+    <p>Some theological-adjacent doggerel I've written.</p>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+    <h2><a href="book-notes">Book Notes</a></h2>
+    <p>Some notes on books I've read.</p>
+  </div>
+
 <!--
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2><a href="https://chthh.github.io/anecdotes/">Anecdotes & Stories</a></h2>
