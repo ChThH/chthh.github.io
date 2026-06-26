@@ -1,6 +1,6 @@
 title: Christopher's Hallmarks
 subtitle: Theological (and Other) Reflections
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v2.5.1
 github_username: ChThH
 minima:
   skin: gruvbox
