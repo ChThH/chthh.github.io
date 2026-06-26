@@ -6,12 +6,11 @@ minima:
   skin: gruvbox
   social_links:
     - { platform: github,  user_url: "https://github.com/ChThH" }
-  nav_pages: 
-    - index.md
-    - https://cthhall.fyi/theological-reflections
 author:
   name: Christopher Hall
   #email: "chthh@example.com"
 plugins:
   - jekyll-remote-theme
+header_pages: 
+  - index.md
 
